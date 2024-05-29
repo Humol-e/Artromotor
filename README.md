@@ -1,4 +1,4 @@
-# Artromotor
+# Artromotor De Rodilla
 
 El proyecto consiste en un artromotor diseñado para la rodilla, el cual ayuda a
 realizar terapias para pacientes que sufrieron una lesión ya sea por cuestiones
